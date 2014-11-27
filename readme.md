@@ -154,3 +154,126 @@ blurred elements over other elements
 
 ###UI Elements - WYSIWYG
 [SirTrevor](http://madebymany.github.io/sir-trevor-js/): A beautiful rich content editor reimagined for web.
+
+Specific websites:
+
+http://compfight.com
+http://themeforest.net/page/asset_library
+http://sxc.hu/
+http://www.morguefile.com/
+http://www.flickr.com/creativecommons/
+http://hdw.eweb4.com/
+
+--------------------------------------------------
+
+Icons:
+http://iconpot.com/
+https://www.iconfinder.com/
+http://www.smashingmagazine.com/tag/icons/
+http://www.flaticon.com/packs/
+http://www.wpzoom.com/wpzoom/new-freebie-wpzoom-developer-icon-set-154-free-icons/
+
+--------------------------------------------------
+
+------What Licenses to Look for--------------
+You need to be careful about the image license. Check out if it is made available for commercial use and do NOT ask for Attributes or Share Alike.
+
+If you find any website specifically not listed here but you found it very good, then let me know!
+
+New:
+
+http://www.gratisography.com/
+http://hdw.eweb4.com/
+https://www.behance.net/
+http://rog.ie/
+http://www.wallpino.com/men/
+
+--------------------------------------------------
+
+New hover:
+http://tympanus.net/Tutorials
+http://tympanus.net/
+
+--------------------------------------------------
+
+zoom hover:
+http://pixelcoder.net/sytic/bs3layout2/header1/index.html
+
+--------------------------------------------------
+
+3D images:
+
+http://joshd.com.au/#work
+http://www.artofjose.com/site/
+https://www.flickr.com/photos/needoptic
+https://www.flickr.com/photos/astragony/
+https://www.flickr.com/photos/astragony
+http://pixabay.com/
+http://picjumbo.com/
+http://crispme.com/
+http://www.imcreator.com/free
+http://albumarium.com/
+https://www.flickr.com/photos/slagerman/
+https://www.flickr.com/photos/kelehen/
+http://wallpaperswide.com/outdoor_restaurant_at_sunset-wallpapers.html
+http://www.pinterest.com/threadedbasil/food-photography/
+http://www.thefirstmess.com/2014/04/09/vegan-cauliflower-and-roasted-garbanzo-rice-and-peas-recipe/
+http://www.elliman.com/
+http://wallbase.cc/
+
+--------------------------------------------------
+
+Black and white:
+
+http://wallpaperswide.com/black_and_white-desktop-wallpapers.html
+
+--------------------------------------------------
+
+Car:
+
+http://www.hdcarwallpapers.com/
+
+--------------------------------------------------
+
+Sport:
+
+https://www.behance.net/jeanyveslemoigne/collections
+
+--------------------------------------------------
+
+For portfolio:
+
+http://designspiration.net/popular/page/1/?marker=582181227640
+http://unsplash.com/
+http://www.superfamous.com/
+
+--------------------------------------------------
+
+For buy
+
+http://photodune.net/user/ollyi/portfolio?_ga=1.248969986.469413741.1408471004
+
+--------------------------------------------------
+
+Animation photo
+
+http://splitshire.com/
+http://max-kostenko.com/
+http://paranoidme.com/
+
+--------------------------------------------------
+
+New images
+
+http://bestgfx.me/stock-sport/
+https://www.flickr.com/photos/danielviero/
+http://www.gratisography.com/
+http://deathtothestockphoto.com/
+
+--------------------------------------------------
+
+Food images:
+
+http://pixabay.com
+http://instagram.com/food
+
